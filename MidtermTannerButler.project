@@ -37,6 +37,14 @@
             "incomeBracket", 
             "incomeBracket.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "calculateExtraXP", 
+            "calculateExtraXP.json"
+          ]
         }
       ], 
       "configxml": null, 
